@@ -7,27 +7,35 @@
 Welcome code traveler ! Here you can behold many of my projects.
 
 <details>
-  <summary>About me</summary>
+  <summary><strong>About me</strong></summary>
 My friends call me <strong>Onyr</strong> even if my real name is <strong>Florian Rascoussier</strong>.</br></br>
   
-I'm a 23 years old and 4th year CS student at INSA Lyon, France. I love to make things and work on personal projects as a programming enthusiast. Since I started coding in my childhood making text-based RPGs in Basic-Casio on my calculator, my deep love of code craftmanship has only been growing stronger with the years. On this journey, I have also met so many generous and talented people, some of them now being friends, that I now consider programming as a way of life. My other main centers of interests aside from code are art, science and philosophy. I also enjoy doing sports like running, hiking and archery. I'm involved in several associations like [Kryptosphere](https://kryptosphere.org/en/).
+I'm a 23 years old and 4th year CS student at INSA Lyon, France. I love to make things and work on <strong>personal projects</strong> as a programming enthusiast. Since I started coding in my childhood making text-based RPGs in Basic-Casio on my calculator, my deep love of <strong>code craftmanship</strong> has only been growing stronger with the years. On this journey, I have also met so many generous and talented people, some of them now being friends, that I now consider programming as a way of life. My other main centers of interests aside from code are art, science and philosophy. I also enjoy doing sports like running, hiking and archery. I'm involved in several associations like [Kryptosphere](https://kryptosphere.org/en/).
   
-Besides, I'm a fervent Linux daily user, Open Source advocate and crypto curious.
+Besides, I'm a fervent Linux daily user, <strong>Open Source advocate</strong> and crypto curious.
 
 - 💬 Ask me about: your love/hate relationship with C++, Dynamic Programming or Plato.
 - 🍪 Fun fact: I'm secretly planning to break the world record for the biggest cooky ever made, currently set at about [18 tons with a diameter of more that 30m](https://www.guinnessworldrecords.com/world-records/largest-biscuit-cookie/)... Internet Explorer not supported.
 </details>
+</br>
 
-<div id="badges">
-  <a href="https://www.linkedin.com/in/florian-rascoussier-onyr/">
-    <img src="https://img.shields.io/badge/LinkedIn-0A66C2?style=for-the-badge&logo=linkedin&logoColor=white" alt="LinkedIn Badge"/>
-  </a>
-  <a href="https://twitter.com/nyr25239424">
-    <img src="https://img.shields.io/badge/Twitter-1DA1F2?style=for-the-badge&logo=twitter&logoColor=white" alt="Twitter Badge"/>
-  </a>
-  <a href="https://gitlab.com/Onyr_">
-    <img src="https://img.shields.io/badge/GitLab-FCA121?style=for-the-badge&logo=gitlab&logoColor=white" alt="GitLab Badge"/>
-  </a>
+<div align="center">
+  <div id="badges">
+    <a href="https://www.linkedin.com/in/florian-rascoussier-onyr/">
+      <img src="https://img.shields.io/badge/LinkedIn-0A66C2?style=for-the-badge&logo=linkedin&logoColor=white" alt="LinkedIn Badge"/>
+    </a>
+    <a href="https://twitter.com/nyr25239424">
+      <img src="https://img.shields.io/badge/Twitter-1DA1F2?style=for-the-badge&logo=twitter&logoColor=white" alt="Twitter Badge"/>
+    </a>
+    <a href="https://gitlab.com/Onyr_">
+      <img src="https://img.shields.io/badge/GitLab-FCA121?style=for-the-badge&logo=gitlab&logoColor=white" alt="GitLab Badge"/>
+    </a>
+  </div>
+  </br>
+      
+[![GitHub Streak](https://github-readme-streak-stats.herokuapp.com?user=0nyr&theme=dracula&date_format=M%20j%5B%2C%20Y%5D)](https://git.io/streak-stats)
+
+[![GitHub Stats](https://github-readme-stats.vercel.app/api?username=0nyr&layout=compact&theme=dracula&hide=stars)](https://github.com/anuraghazra/github-readme-stats)
 </div>
 
 ## 🛠 Languages and tools
@@ -78,8 +86,11 @@ https://www.sitepoint.com/github-profile-readme/
 ##### tools
 https://unicode-table.com/en/
 
+##### GitHub tools
+https://github.com/anuraghazra/github-readme-stats#top-languages-card
 
-broken:
+
+broken feature:
 <img
   src="https://cr-ss-service.azurewebsites.net/api/ScreenShot?widget=summary&username=0nyr&badges=3&show-avatar=false"
 />
