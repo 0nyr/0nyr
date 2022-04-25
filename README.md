@@ -1,7 +1,8 @@
 ## 🌍 Hello World
 
 <div align="right">
-  <img src="https://komarev.com/ghpvc/?username=0nyr&style=flat-square&color=blue" alt=""/>
+  <img src="https://komarev.com/ghpvc/?username=0nyr&style=flat-square&color=blue" alt="views"/>
+  <img src="https://visitor-badge.deta.dev/badge?page_id=onyr.onyr&left_color=grey&right_color=blue" alt="visitors"/>
 </div>
 
 Welcome code traveler ! Here you can behold many of my projects.
@@ -68,7 +69,7 @@ Besides, I'm a fervent Linux daily user, <strong>Open Source advocate</strong> a
 ## ⚡ Codersrank
 
 <img
-  src="https://cr-skills-chart-widget.azurewebsites.net/api/api?username=0nyr&skills=C%2B%2B,C,Rust,Python,Java,Shell,JavaScript,TypeScript,HTML,CSS,&width=640&show-other-skills=true&padding=10"
+  src="https://cr-skills-chart-widget.azurewebsites.net/api/api?username=0nyr&skills=C%2B%2B,C,Rust,Python,Java,Kotlin,Shell,JavaScript,TypeScript,HTML,CSS,&width=640&show-other-skills=true&padding=10"
 />
 
 
