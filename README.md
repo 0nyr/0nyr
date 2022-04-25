@@ -2,7 +2,6 @@
 
 <div align="right">
   <img src="https://komarev.com/ghpvc/?username=0nyr&style=flat-square&color=blue" alt="views"/>
-  <img src="https://visitor-badge.deta.dev/badge?page_id=onyr.onyr&left_color=grey&right_color=blue" alt="visitors"/>
 </div>
 
 Welcome code traveler ! Here you can behold many of my projects.
