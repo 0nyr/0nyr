@@ -10,7 +10,7 @@ Welcome code traveler ! Here you can behold many of my projects.
   <summary><strong>About me</strong></summary>
 My friends call me <strong>Onyr</strong> even if my real name is <strong>Florian Rascoussier</strong>.</br></br>
   
-I'm a 23 years old and 5th year CS student in research (PhDTrack) Double Degree with INSA Lyon, France and Universität Passau, Germany. I love to make things and work on <strong>personal projects</strong> as a programming enthusiast. Since I started coding in my childhood making text-based RPGs in Basic-Casio on my calculator, my deep love of <strong>code craftmanship</strong> has only been growing stronger with the years. On this journey, I have also met so many generous and talented people, some of them now being friends, that I now consider programming as a way of life. My other main centers of interests aside from code are art, science and philosophy. I also enjoy doing sports like running, hiking and archery. I'm involved in several associations like [Kryptosphere](https://kryptosphere.org/en/).
+I'm a 24 years old and 5th year CS student in research (PhDTrack) Double Degree with INSA Lyon, France and Universität Passau, Germany. I love to make things and work on <strong>personal projects</strong> as a programming enthusiast. Since I started coding in my childhood making text-based RPGs in Basic-Casio on my calculator, my deep love of <strong>code craftmanship</strong> has only been growing stronger with the years. On this journey, I have also met so many generous and talented people, some of them now being friends, that I now consider programming as a way of life. My other main centers of interests aside from code are art, science and philosophy. I also enjoy doing sports like running, hiking and archery. When I was at INSA, I was involved in several associations like [Kryptosphere](https://kryptosphere.org/en/).
   
 Besides, I'm a fervent Linux daily user, <strong>Open Source advocate</strong> and crypto curious.
 
@@ -47,8 +47,8 @@ Besides, I'm a fervent Linux daily user, <strong>Open Source advocate</strong> a
   <img src="https://github.com/devicons/devicon/blob/master/icons/python/python-original.svg" title="Python" **alt="Python" width="40" height="40"/>
   <img src="https://github.com/devicons/devicon/blob/master/icons/jupyter/jupyter-original-wordmark.svg" title="Jypyter" **alt="Jypyter" width="40" height="40"/>
   <img src="https://github.com/devicons/devicon/blob/master/icons/selenium/selenium-original.svg" title="Selenium" **alt="Selenium" width="40" height="40"/>
-  <img src="https://github.com/gilbarbara/logos/blob/master/logos/elasticsearch.svg" title="Elasticsearch" **alt="Elasticsearch" width="40" height="40"/>
-  <img src="https://github.com/gilbarbara/logos/blob/master/logos/kibana.svg" title="Kibana" **alt="Kibana" width="40" height="40"/>
+  <img src="https://github.com/gilbarbara/logos/blob/c3bbf0e707fa9d7940c2c7b84ac72fa954a444c9/logos/elasticsearch.svg" title="Elasticsearch" **alt="Elasticsearch" width="40" height="40"/>
+  <img src="https://github.com/gilbarbara/logos/blob/c3bbf0e707fa9d7940c2c7b84ac72fa954a444c9/logos/kibana.svg" title="Kibana" **alt="Kibana" width="40" height="40"/>
   <img src="https://github.com/devicons/devicon/blob/master/icons/java/java-original-wordmark.svg" title="Java" alt="Java" width="40" height="40"/>&nbsp;
   <img src="https://github.com/devicons/devicon/blob/master/icons/javascript/javascript-original.svg" title="JavaScript" alt="JavaScript" width="40" height="40"/>&nbsp;
   <img src="https://github.com/devicons/devicon/blob/master/icons/typescript/typescript-original.svg" title="TypeScript" **alt="TypeScript" width="40" height="40"/>
@@ -71,7 +71,7 @@ Besides, I'm a fervent Linux daily user, <strong>Open Source advocate</strong> a
 ## ⚡ Codersrank
 
 <img
-  src="https://cr-skills-chart-widget.azurewebsites.net/api/api?username=0nyr&skills=C%2B%2B,C,Rust,Python,Java,Kotlin,Shell,JavaScript,TypeScript,HTML,CSS,&width=640&show-other-skills=true&padding=10"
+  src="https://cr-skills-chart-widget.azurewebsites.net/api/api?username=0nyr&skills=C%2B%2B,C,Rust,Go,Prolog,Python,Jupyter%20Notebook,Java,Kotlin,Shell,JavaScript,TypeScript,HTML,CSS,&width=640&show-other-skills=true&padding=10"
 />
 
 
